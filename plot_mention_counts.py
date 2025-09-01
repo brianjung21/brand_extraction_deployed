@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
-INPUT_PATH = Path("/Users/sanghoonjung/PycharmProjects/PythonProject/brand_extraction/data/pivoted_brand_counts.csv")
+INPUT_PATH = Path("data/pivoted_brand_counts.csv")
 START_DATE = '2025-08-24'
 END_DATE = '2025-08-31'
 
